@@ -1,6 +1,6 @@
 # Commbank-Style-Cybersecurity-Tips
 
-This is a webpage made for the Introduction to Software Engineering Job Simulation by Commonwealth Bank.
+This is a webpage I made for the Introduction to Software Engineering Job Simulation by Commonwealth Bank.
 
 ## URL
 
