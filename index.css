@@ -1,0 +1,57 @@
+* {
+    font-family: 'Lucida Sans';
+}
+
+h1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 50pt 0 30pt 0;
+    color: #1E1E1E;
+    font-size: 70pt;
+}
+
+p {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    line-height: 1.5;
+    font-size: 18pt;
+    color: #1E1E1E;
+}
+
+h2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 38pt;
+    color: #1E1E1E;
+    background-color: #EBEBEB;
+}
+
+.icon-row i {
+  color: #1E1E1E;
+  background-color: #FFCC00;
+  font-size: 28px;
+  width: 54px;
+  height: 54px;
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+  border: 2px solid #FFCC00;
+  border-radius: 8px;
+}
+
+
+.icon-row {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+}
+
+
+body {
+    background-color: #FFFFFF;
+}
